@@ -1,4 +1,4 @@
-Hi, I’m @beyond990 an IT Infrastructure engineer in Birmingham UK. I have a strong background in Network and SAN storage having worked with NetApp as a partner and customer.
+Hi, I’m @beyond990 an IT Infrastructure engineer in Birmingham UK. I have a strong background in Network and SAN storage having worked with NetApp as a partner and customer for around 12 years.
 
 From a programming aspect I’m interested in:
 - Python 
