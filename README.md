@@ -1,18 +1,14 @@
-Hi, I’m @beyond990 an IT Infrastructure engineer in Birmingham UK. I have a strong background in Network and SAN storage having worked with NetApp as a partner and customer for around 12 years.
+With 30 years of deep experience across enterprise IT infrastructure, I specialise in automation, process orchestration, and complex systems architecture. My career has been built on solving highly technical infrastructure challenges—from NetApp storage and VMware virtualisation to building custom automated workflows that streamline broken business processes.
+Following a recent redundancy, I am intentionally pivoting my career away from the corporate 9-to-5 ladder to focus on independent technical consulting, part-time contract projects, and impactful community leadership.I am highly agile, self-managing, and looking for flexible, remote, or hybrid opportunities in the West Midlands where I can deploy my technical problem-solving skills to help SMEs, charities, or non-profits scale their operations efficiently.
 
-From a programming aspect I’m interested in:
-- Python 
-  - Django
-  - Flask
-  - SQLAlchemy
-  - Rest API interaction
-- Java SE 
-- JakartaEE
-
-I’m currently learning and working on integration between ServiceNow and Nagios Core monitoring, using Rest API calls, using experience gained writing RestAPI calls on NetApp storage to monitor the storage environment.
-
-An interesting side note, my username beyond990 comes from the last 3 number of my military ID and the fact this is now me **beyond** the Army 🙂 i liked it then and it has stuck with me ever since.
-<!---
-beyond990/beyond990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Core Expertise: 
+- Automation amp; Scripting
+  - Python
+  - PowerShell
+  - bash
+  - Groovy
+- Enterprise Storage (NetApp)
+- Virtualisation (VMware)
+- Linux amp; Windows Systems
+- API amp; Workflow Orchestration
+- Systems Integration.
